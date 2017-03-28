@@ -1,2 +1,5 @@
 # reddit
-reddit clone
+reddit clone 
+
+mongodb
+node
